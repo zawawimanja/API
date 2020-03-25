@@ -1,11 +1,16 @@
 [{
-        "state": "Perlis",
-        "hospital_name": "Hospital Tuanku Fauziah,Kangar",
-      
-    },
-{
-       "state": "Kedah",
-        "hospital_name": "Hospital Sultanah Bahiyah, Alor Setar","Hospital Sultan Abdul Halim, Sg.Petani"
-    },
-    ]
-© 2020 GitHub, Inc.
+		"state": "Perlis",
+		"hospital_name": "Hospital Tuanku Fauziah"
+
+	},
+	{
+		"state": "Kedah",
+		"hospital_name": ["Hospital Sultanah Bahiyah, Alor Setar", "Hospital Sultan Abdul Halim, Sg.Petani",
+			"Hospital Kulim", "Hospital Sultanah Maliha,Langkawi "
+		]
+	},
+	{
+		"state": "Pulau Pinang",
+		"hospital_name": ["Hospital Pulau Pinang", "Hospital Seberang Jaya", "Hospital Bukit Mertajam ", "Hospital Kepala Batas"]
+	}
+]
