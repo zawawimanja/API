@@ -1,4 +1,11 @@
-Learn how to write and run automate tests inside Postman
+1. Learn how to write and run automate tests inside Postman
 
 
 write javascript function to check the status code which is 200
+
+postman.setNextRequest('Postman Echo PUT') //put it in the test tab and check whether it is ok
+
+2. prerequest script - script before send for a request
+
+pm.globals.set("filter", "user-1");   //put in the pre request tab then put the query params like key and value. then monitor in the response body to show that result
+
