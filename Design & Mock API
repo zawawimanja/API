@@ -1,0 +1,9 @@
+using postman
+
+
+Mock servers let you simulate your API endpoints without having to set up a backend.
+
+Method
+Request Path
+Response Code
+Response Body
