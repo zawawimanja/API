@@ -1,4 +1,7 @@
+Attacker account and Victim accound
+
+
 1 .turn on proxy a.k.a burp suite
-2. find request
-3.change id
+2. find request ,find in header
+3.change id , change token
 4.check status code
